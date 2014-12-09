@@ -11,6 +11,8 @@ image:
 comments: true
 mathjax: 
 ---
+{% include toc.html %}
+
 VPS剛入手,IDC廠商會給你一個或者多個ip,這樣以後就可以從本地機器通過ssh客戶端登錄到遠程服務器上面去.登錄之後就可以像在本地終端一樣操作管理以及維護服務器.
 <!--more-->
 
