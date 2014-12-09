@@ -8,7 +8,7 @@ category: nginx
 tags: [nginx, deb, vps, 打包]
 image: 
   feature: 
-comments: false
+comments: true
 mathjax: 
 ---
 由於安全的考慮,俺的小站使用了https,大部分情況都是256位強加密.https在TCP握手,密鑰交換及加解密上服務器會有額外的開銷,但是這些開銷對於現在的配置不是問題,問題是在第一次建立安全鏈接時會消耗較長時間,這對於網站用戶體驗有很大影響.處女座的強迫症又犯了,因此才有了下面的折騰.
