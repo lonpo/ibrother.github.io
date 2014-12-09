@@ -64,6 +64,8 @@ links:
     url: /guestbook
   - title: Project
     url: /project
+  - title: Links
+  url:   /links
   - title: About me
     url: /about
 
