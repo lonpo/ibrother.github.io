@@ -65,7 +65,7 @@ links:
   - title: Project
     url: /project
   - title: Links
-  url:   /links
+    url:   /links
   - title: About me
     url: /about
 
