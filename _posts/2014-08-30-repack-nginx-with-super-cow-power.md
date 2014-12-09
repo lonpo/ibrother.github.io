@@ -6,6 +6,7 @@ headline:
 modified: 2014-12-09
 category: nginx
 tags: [nginx, deb, vps, 打包]
+toc: true
 image: 
   feature: 
 comments: true
