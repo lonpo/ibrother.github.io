@@ -11,13 +11,12 @@ image:
 comments: true
 mathjax: 
 ---
-{% include toc.html %}
-
 VPS剛入手,IDC廠商會給你一個或者多個ip,這樣以後就可以從本地機器通過ssh客戶端登錄到遠程服務器上面去.登錄之後就可以像在本地終端一樣操作管理以及維護服務器.
 <!--more-->
 
 以下以debian7.6 amd64操作系統爲例,其他系統大致相同.如果不會iptables,不懂selinux,強力推薦使用debian!!
 
+{% include toc.html %}
 # 人家是第一次哦
 
 ## 初次登錄

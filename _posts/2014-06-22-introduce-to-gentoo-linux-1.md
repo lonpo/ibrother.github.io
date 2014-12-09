@@ -14,6 +14,8 @@ mathjax:
 Linux發行版可以說是多如牛毛，最華麗的opensuse、開箱即用的LinuxDeepin、專注新技術的fedora、以及用於服務器堅如磐石般的debian和RHEL等等，Gentoo作為一個元發行版在其中絶對是特殊的一位。
 <!--more-->
 
+{% include toc.html %}
+
 # Gentoo Linux 入坑開始
 
 [Gentoo官網][1]上的介紹：
