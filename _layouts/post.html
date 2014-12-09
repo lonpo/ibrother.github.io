@@ -45,6 +45,12 @@ Description: Awesome dude, awesome life
                         </div>
                     </header>
                     <div class="post-body bordered-bottom" itemprop="description">
+                        {% if page.video %}
+                        {% assign video_embed = page.video | remove:'https://www.youtube.com/watch?v=' %}
+                        <iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>
+                        {% endif %}
+                        {{ content }}
+                        <br>
                         {% if page.toc == true %}
                         <section>
                         <header>
@@ -56,12 +62,6 @@ Description: Awesome dude, awesome life
                         </div>
                         </section>
                         {% endif %}
-                        {% if page.video %}
-                        {% assign video_embed = page.video | remove:'https://www.youtube.com/watch?v=' %}
-                        <iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>
-                        {% endif %}
-                        {{ content }}
-                        <br>
                         <hr>
                         <div class="copyleft">
                             <span class="cc">版權聲明：自由轉載-非商用-非衍生-保持署名 {{ site.owner.name }}</span>
