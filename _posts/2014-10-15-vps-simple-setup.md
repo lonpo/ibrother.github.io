@@ -4,8 +4,8 @@ title: "VPS初步配置"
 description: 
 headline: 
 modified: 2014-12-09
-category: personal
-tags: []
+category: VPS
+tags: [vps, ssh]
 image: 
   feature: 
 comments: true
