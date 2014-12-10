@@ -223,7 +223,7 @@ tags: [ibrother, blog, linux, gentoo, vim, kde, program]
 {% endif %}
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
  {% if paginator.next_page %}   
-        <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}">Older Posts &rarr;</a>
+        <a class="older-posts btn btn-danger btn-large" href="{{ site.url }}/page{{ paginator.next_page }}">Older Posts &rarr;</a>
  {% endif %}
 </nav>
             </div>
