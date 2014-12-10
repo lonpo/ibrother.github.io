@@ -26,6 +26,8 @@ Apache作爲一款老牌的web服務器.得益於其良好的架構設計,Google
 
 因此,俺選擇了打包,而不是編譯安裝.nginx官方爲debian提供了官方源,這樣在其源碼基礎上修改重打包就方便可靠多了:
 
+{% include toc.html %}
+
 # 創建工作目錄
 
 ~~~ bash
@@ -126,6 +128,7 @@ NGX_GCC_OPT="-O2"
 
 ## 開啓TCP_FASTOPEN(可選)
 TCP_FASTOPEN可以在TCP三次握手時也能交換數據.在某些場合效果很明顯.要完整使用TCP_FASTOPEN要求以下部分都要開啓TCP_FASTOPEN:
+
 > 服務器操作系統(Linux)-----web server(nginx)-----瀏覽器(chrome)-----客戶端操作系統(Linux)
 
 ### 服務器和客戶端開啓TCP_FASTOPEN
