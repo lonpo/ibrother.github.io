@@ -17,6 +17,8 @@ image:
 
 # Zones
 
+* [碼農圈][23]
+
 * [網易雲音樂][1]
 
 * [蝦米音樂][17]
@@ -110,3 +112,5 @@ image:
 [21]: http://blog.ibrother.me
 
 [22]: http://ibrother.me
+
+[23]: http://coderq.com/users/ibrother/activity
