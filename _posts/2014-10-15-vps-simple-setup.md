@@ -149,7 +149,9 @@ $ sudo ufw limit 2333/tcp   # 2333是之前設置的端口號,這裏使用了限
 $ sudo ufw default deny
 ~~~
 
-設置ufw開機啓動,這一步相當重要,請謹慎操作!如果之前配置出現錯誤,可能會將自己也擋在了防火牆外面.一旦發生此種狀況,使用vps控制面板裏的console可以登錄.
+<div class="alert alert-danger" role="alert">
+<strong>注意</strong>設置ufw開機啓動,這一步相當重要,請謹慎操作!如果之前配置出現錯誤,可能會將自己也擋在了防火牆外面.一旦發生此種狀況,使用vps控制面板裏的console可以登錄.
+</div>
 
 ~~~ bash
 $ sudo ufw enable
