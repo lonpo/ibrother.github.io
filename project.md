@@ -29,7 +29,7 @@ Shadowsocks是一個安全輕量的socks5代理。作為一個軟妹子，她有
 
 服務器資源是有限的,因此俺希望能把帳號留給更需要的人,只需要發一封申請郵件給俺即可.
 
-郵件請註明主題為 shadowsocks帳號申請 郵件內容為 申請人姓名+你常用的操作系統(包括電腦和手機) 發送到俺的郵箱<a href="mailto:ibrother.linux@gmail.com?subject="shadowsocks帳號申請"&body="姓名:<br>常用操作系統:"">
+郵件請註明主題為 shadowsocks帳號申請 郵件內容為 申請人姓名+你常用的操作系統(包括電腦和手機) 發送到俺的郵箱ibrother.linux@gmail.com
 俺收到後,帳號和教程會一起發送給你
 
 # 博客託管服務
