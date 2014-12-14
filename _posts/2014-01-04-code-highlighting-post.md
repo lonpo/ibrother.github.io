@@ -39,7 +39,7 @@ To modify styling and highlight colors edit `/assets/less/pygments.less` and com
 {% endraw %}
 {% endhighlight %}
 
-{% highlight ruby %}
+{% highlight ruby linenos %}
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
