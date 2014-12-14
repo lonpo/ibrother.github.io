@@ -18,7 +18,7 @@ Syntax highlighting is a feature that displays source code, in different colors 
 
 To modify styling and highlight colors edit `/assets/less/pygments.less` and compile `main.less` with your favorite preprocessor. Or edit `main.css` if that's your thing, the classes you want to modify all begin with `.highlight`.
 
-{% highlight css lineos %}
+{% highlight css %}
 #container {
     float: left;
     margin: 0 -240px 0 0;
@@ -39,7 +39,7 @@ To modify styling and highlight colors edit `/assets/less/pygments.less` and com
 {% endraw %}
 {% endhighlight %}
 
-{% highlight ruby lineos %}
+{% highlight ruby %}
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
