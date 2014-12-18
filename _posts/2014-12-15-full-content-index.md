@@ -50,7 +50,13 @@ mathjax:
 
 `_config.yml`文件就是jekyll的主配置文件，jekyll相对于hexo的第二个难点就是配置文件太灵活，而且默认就给那么几个，太坑了有木有！。
 
-`_includes`目录包含可重复使用的代码，只需要在其他文件中包含即可，比如在`_layouts/default.html`中加上一行`{% include head.html %}`,那个地方就被`_includes/head.html`填充进去。
+`_includes`目录包含可重复使用的代码，只需要在其他文件中包含即可，比如在`_layouts/default.html`中加上一行
+
+{% highlight html %}
+{% include head.html %}
+{% endhighlight %}
+
+那个地方就被`_includes/head.html`填充进去。
 
 `_layouts`中定义的是网页布局类型，比如默认定义了默认布局,页面布局，文章布局。布局文件可以有类似"继承"的特性，比如`page.html`和`post.html`在开头都加上了`layout: default`，这样表示他们本身是在默认布局的基础上更改的，通过include 和这种"继承"，可以大大减少重复代码量，也使整个结构更加清晰。
 
@@ -64,7 +70,7 @@ ok，有了大致了解之后，我们再看看，默认模板还缺点啥？
 
 下面是`index.html`的部分代码
 
-~~~ html
+{% highlight html %}
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -76,13 +82,13 @@ ok，有了大致了解之后，我们再看看，默认模板还缺点啥？
       </li>
     {% endfor %}
   </ul>
-~~~
+{% endhighlight %}
 
 略去无关的clss，这就是一个无需列表，通过liquid语句遍历所有的文章来生成这个无序列表,有日期，有文章标题链接，怎么加上内容呢？
 我们在`</h2>`下面加上一行`<p>{{ post.content }}</p>`
 此时`index.html`代码变成下面这样
 
-~~~ html
+{% highlight html %}
 ---
 layout: default
 ---
@@ -107,7 +113,7 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-~~~
+{% endhighlight %}
 
 刷新一下，看内容是不是出来了，哦耶！
 
