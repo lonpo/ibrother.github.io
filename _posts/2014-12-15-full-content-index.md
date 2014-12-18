@@ -52,9 +52,9 @@ mathjax:
 
 `_includes`目录包含可重复使用的代码，只需要在其他文件中包含即可，比如在`_layouts/default.html`中加上一行
 
-{% highlight html %}
+<blockquote>
 {% include head.html %}
-{% endhighlight %}
+</blockquote>
 
 那个地方就被`_includes/head.html`填充进去。
 
@@ -70,7 +70,7 @@ ok，有了大致了解之后，我们再看看，默认模板还缺点啥？
 
 下面是`index.html`的部分代码
 
-{% highlight html %}
+<blockquote>>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -82,13 +82,13 @@ ok，有了大致了解之后，我们再看看，默认模板还缺点啥？
       </li>
     {% endfor %}
   </ul>
-{% endhighlight %}
+</blockquote>>
 
 略去无关的clss，这就是一个无需列表，通过liquid语句遍历所有的文章来生成这个无序列表,有日期，有文章标题链接，怎么加上内容呢？
-我们在`</h2>`下面加上一行`<p>{{ post.content }}</p>`
+我们在`</h2>`下面加上一行<blockquote>><p>{{ post.content }}</p></blockquote>>
 此时`index.html`代码变成下面这样
 
-{% highlight html %}
+<blockquote>>
 ---
 layout: default
 ---
@@ -113,7 +113,7 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-{% endhighlight %}
+</blockquote>>
 
 刷新一下，看内容是不是出来了，哦耶！
 
