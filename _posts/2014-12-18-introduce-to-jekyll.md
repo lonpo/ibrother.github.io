@@ -4,7 +4,7 @@ title: "jekyll系列教程"
 description: 
 headline: 
 modified: 2014-12-18
-category: jelyll
+category: jekyll
 tags: [blog, jekyll]
 image: 
   feature: 
