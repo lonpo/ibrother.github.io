@@ -41,17 +41,17 @@ mathjax:
 
 [1]: https://coderq.com
 
-[2]: https://coderq.com/t/jekyll-di-pian-an-zhuang-jekyll/105/4
+[2]: https://coderq.com/t/jekyll-di-pian-an-zhuang-jekyll/105
 
-[3]: https://coderq.com/t/jekyll-di-er-pian-shou-ye-xian-shi-wen-zhang-quan-wen/108/4
+[3]: https://coderq.com/t/jekyll-di-er-pian-shou-ye-xian-shi-wen-zhang-quan-wen/108
 
 [4]: https://coderq.com/t/jekyll-di-san-pian-shou-ye-shi-xian-wen-zhang-zhai-yao/110
 
-[5]: https://coderq.com/t/jekyll-di-si-pian-zai-shou-ye-zhong-shi-yong-fen-ye-qi/114/2
+[5]: https://coderq.com/t/jekyll-di-si-pian-zai-shou-ye-zhong-shi-yong-fen-ye-qi/114
 
 [6]: https://coderq.com/t/jekyll-di-wu-pian-tian-jia-wen-zhang-dao-hang-an-niu/119
 
-[7]: https://coderq.com/t/jekyll-di-liu-pian-tian-jia-duo-shuo-ping-lun/120/4
+[7]: https://coderq.com/t/jekyll-di-liu-pian-tian-jia-duo-shuo-ping-lun/120
 
 [8]: https://coderq.com/t/jekyll-di-qi-pian-tian-jia-du-li-ye-mian/133
 
