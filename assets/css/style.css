@@ -621,7 +621,7 @@ html {
   -ms-transition: -ms-transform 2s ease-out;
   transition: transform 2s ease-out;
 }
-.post-avatar:hovor {
+.post-avatar:hover {
   -webkit-transform: rotateZ(360deg);
   -moz-transform: rotateZ(360deg);
   -o-transform: rotateZ(360deg);
