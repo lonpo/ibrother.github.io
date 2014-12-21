@@ -54,13 +54,17 @@ Shadowsocks是一個安全輕量的socks5代理。作為一個軟妹子，她有
 
 <hr>
 
-# 贊助本站
+# 打賞我
 
-也可以使用手機支付寶掃瞄下方的二維碼贊助本站,金額自定.
+如果你覺得我的工作對你有幫助，可以請我喝杯茶。
+
+使用手機支付寶掃瞄下方的二維碼贊助本站,金額自定.
 
 ![][1]
 
-或者在支付寶網頁版轉賬到俺的收款帳號i2brother@163.com
+也可以點下面的鏈接
+
+<form action="https://shenghuo.alipay.com/send/payment/fill.htm" accept-charset="gbk" id="dinggou" method="post" name="dinggou" target="_blank"><input name="" type="submit" value="打赏" class="btn btn-success" /> <input name="optEmail" type="hidden" value="i2brother@163.com" /> <input name="memo" type="hidden" value="如果你觉得我的工作对你有帮助，可以请我喝杯茶，谢谢！" /> <input id="payAmount" name="payAmount" type="hidden"value="5" /> <input id="title" name="title" type="hidden" value="打赏支持我" /><br /></form>
 
 收到的捐助將用來分擔服務器的開銷。
 
