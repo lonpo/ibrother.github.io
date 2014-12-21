@@ -27,6 +27,7 @@ mathjax:
 - [Zippera](http://zipperary.com)
 - [關於生活，關於前端](http://zhuxinyong.com)
 - [麻凯倩](http://makaiqian.com)
+- [碼農圈](https://coderq.com)
 - [烏拉拉](http://wulala.in/)
 - [學習下](http://xuexixia.com)
 - [雲逸](http://pyy.club)
