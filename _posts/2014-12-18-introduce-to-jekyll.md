@@ -3,7 +3,7 @@ layout: post
 title: "jekyll系列教程"
 description: 
 headline: 
-modified: 2014-12-18
+modified: 2014-12-23
 category: jekyll
 tags: [blog, jekyll]
 image: 
@@ -37,6 +37,8 @@ mathjax:
 
 8. [jekyll 第八篇：生成站點地圖][9]
 
+9. [jekyll 第九篇：使用atom格式的feed][10]
+
 未完待續...
 
 [1]: https://coderq.com
@@ -56,3 +58,5 @@ mathjax:
 [8]: https://coderq.com/t/jekyll-di-qi-pian-tian-jia-du-li-ye-mian/133
 
 [9]: https://coderq.com/t/jekyll-di-ba-pian-sheng-cheng-zhan-dian-di-tu/134
+
+[10]: https://coderq.com/t/jekyll-di-jiu-pian-shi-yong-atomge-shi-de-feed/178
