@@ -89,7 +89,7 @@ image:
 
 [7]: http://ourblog.ibrother.me "博客聚合"
 
-[10]: http://blog.ibrother.me/gnupg/2014/07/29/encrypt-with-GnuPG/ "使用GnuPG加密和簽名"
+[10]: http://blog.ibrother.me/gnupg/encrypt-with-gnupg/ "使用GnuPG加密和簽名"
 
 [12]: https://twitter.com/IbrotherLinux "推特"
 
