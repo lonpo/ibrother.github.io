@@ -11,7 +11,7 @@ image:
 comments: true
 mathjax: 
 ---
-> *All mail clients suck.This one just sucks less.*
+> All mail clients suck.This one just sucks less.
 
 [mutt][1]是一個Linux終端下的著名的郵件客戶端，如你所願，mutt就是一個*郵件客戶端*。沒有其他浮華的功能，它可以幫助你提升效率，至於幫助你裝X只能算是mutt的特殊加成。
 <!--more-->

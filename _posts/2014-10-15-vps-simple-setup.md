@@ -16,7 +16,6 @@ VPS剛入手,IDC廠商會給你一個或者多個ip,這樣以後就可以從本�
 
 以下以debian7.6 amd64操作系統爲例,其他系統大致相同.如果不會iptables,不懂selinux,強力推薦使用debian!!
 
-{% include toc.html %}
 # 人家是第一次哦
 
 ## 初次登錄
