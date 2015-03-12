@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2014-12-23
 category: jekyll
-tags: [blog, jekyll]
+tags: [jekyll, 教程]
 image: 
   feature: 
 comments: true
