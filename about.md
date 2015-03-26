@@ -27,7 +27,9 @@ image:
 <hr>
 # IM
 
-![][3]
+电报: ibrother
+
+irc: ibrother
 
 <hr>
 # SNS
@@ -40,7 +42,7 @@ image:
 
 * [豆瓣][4]
 
-* ~~[微博][15]~~
+* ~~~[微博][15]~~~
 
 * [人人][5]
 <hr>
@@ -78,8 +80,6 @@ image:
 [1]: http://music.163.com/#/user/home?id=17672093 "網易雲音樂"
 
 [2]: http://jianshu.io/users/81e1d24496d7/ "簡書"
-
-[3]: http://ibrother.qiniudn.com/my_qr_code.png "掃一掃加我易信"
 
 [4]: http://www.douban.com/people/ibrother_linux/ "豆瓣"
 
