@@ -34,7 +34,7 @@ mathjax:
 - [碼農圈](https://coderq.com)
 - [烏拉拉](http://wulala.in/)
 - [學習下](http://xuexixia.com)
-- [雲逸](http://pyy.club)
+- [雲逸](http://pyy.io)
 
 <div class="alert alert-info" role="alert">
     想要交換友鏈的小夥伴可以在下面留言:
