@@ -35,6 +35,7 @@ mathjax:
 - [碼農圈](https://coderq.com)
 - [烏拉拉](http://wulala.in/)
 - [學習下](http://xuexixia.com)
+- [寻味漂漂](http://syscca.com)
 - [雲逸](http://pyy.io)
 
 <div class="alert alert-info" role="alert">
