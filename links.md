@@ -28,7 +28,7 @@ mathjax:
 - [Siberiawolf](http://siberiawolf.com/)
 - [Web前端學習筆記](http://www.dielianhua.us)
 - [Winterfell30](http://www.winterfell30.com/)
-- [YumeMichi](http://dsy.im)
+- [YumeMichi](http://blog.ikke.moe)
 - [Zippera](http://zipperary.com)
 - [關於生活，關於前端](http://zhuxinyong.com)
 - [麻凯倩](http://makaiqian.com)
